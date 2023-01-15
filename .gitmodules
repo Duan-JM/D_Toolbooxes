@@ -1,0 +1,6 @@
+[submodule "StarsCollector"]
+	path = StarsCollector
+	url = https://github.com/Duan-JM/StarsCollector.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/Duan-JM/dotfiles
